@@ -31,6 +31,6 @@
 ---
 ### 🛠️ Setup:
 - OS: **Arch Linux** (primary), **Windows** (secondary for gaming)
-- Tools: **IntelliJ IDEA**, **VSCode**, **Proot**, **SQLite**
+- Tools: **IntelliJ IDEA**, **VSCode**, **SQLite** and more terminal and GUI tools.
 - Editor: **GNU Nano**
 
