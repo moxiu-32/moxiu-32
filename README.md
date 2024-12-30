@@ -11,7 +11,7 @@
 -   💻 I specialize in **Rust**, **Kotlin**, **Python**, and **C++**.
 -   📱 Currently developing an **open-source Android music player**.
 -   🔧 Favorite tools: **Arch Linux**, **VSCode**, **SQLite**, and **IntelliJ IDEA**.
--   🌱 Working on **GSIs for Android**.
+-   🌱 Working on **GSIs for Android**, **Android Apps** and more.
 -   🎮 Dual-boot user (Arch Linux & Windows) but prefer Linux for development.
 
 
